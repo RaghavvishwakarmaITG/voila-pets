@@ -415,7 +415,6 @@ input[type="text"] {
     }
 }
 
-/* Tablets and Larger Devices (max-width: 1024px) */
 @media (max-width: 1024px) {
     .header-navbar ul {
         gap: 25px;
@@ -451,7 +450,6 @@ input[type="text"] {
     }
 }
 
-/* Large Devices (min-width: 1200px) */
 @media (min-width: 1200px) {
     .header-main {
         padding-top: 31px;
